@@ -1,0 +1,2 @@
+Becoming familiar with the git repository, checkouts,
+adds, commits, and merges.
